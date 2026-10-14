@@ -200,7 +200,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Basyokoo/Basyokoo/main/assets/stats.svg" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Basyokoo&theme=tokyonight" width="48%" alt="GitHub Stats"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com/?user=Basyokoo&theme=tokyonight&hide_border=true&background=0d1117&ring=FFE81F&fire=FFE81F&currStreakLabel=FFE81F" width="48%"/>
 
