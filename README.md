@@ -148,25 +148,42 @@
 
 > *"Do. Or do not. There is no try."* — **Yoda**
 
+</div>
+
 <br/>
 
 <table>
 <tr>
-<td align="center" colspan="2">
+<td width="33%" align="center" valign="middle">
+
+<a href="https://github.com/Basyokoo/TheFiloutageGame"><img src="https://raw.githubusercontent.com/Basyokoo/Basyokoo/main/filoutage.svg" alt="TheFiloutageGame" width="100%"/></a>
+
+</td>
+<td width="67%" valign="middle">
 
 ### 🎮 [TheFiloutageGame](https://github.com/Basyokoo/TheFiloutageGame)
-*Serious simulation game to understand massification*
+*Serious simulation game to understand massification.*
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In_Progress_⚙️-FFE81F?style=flat-square)
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td align="center" width="50%">
+<td width="33%" align="center" valign="middle">
+
+<a href="https://github.com/Basyokoo/Bot_dc"><img src="https://raw.githubusercontent.com/Basyokoo/Basyokoo/main/botdc.svg" alt="Bot_dc" width="100%"/></a>
+
+</td>
+<td width="67%" valign="middle">
 
 ### 🤖 [Bot_dc](https://github.com/Basyokoo/Bot_dc)
-*Discord bot linked to a website and a database (same repo) — music, games, economy, moderation…*
+*Discord bot linked to a website and a database, all in a single repository.*
+
+🎵 Music &nbsp;•&nbsp; 🎲 Games &nbsp;•&nbsp; 💰 Economy &nbsp;•&nbsp; 🛡️ Moderation &nbsp;•&nbsp; …
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -179,18 +196,18 @@
 ![Status](https://img.shields.io/badge/Status-In_Progress_⚙️-FFE81F?style=flat-square)
 
 </td>
-<td align="center" width="50%">
+</tr>
+</table>
 
-### 🃏 [Inscryption](https://github.com/Basyokoo/Inscryption)
-*Java card game inspired by Inscryption — special powers, 3 chained games*
+<br/>
 
+<div align="center">
+
+**Other missions** &nbsp;·&nbsp; 🃏 [Inscryption](https://github.com/Basyokoo/Inscryption) — *Java card game inspired by Inscryption — special powers, 3 chained games*
+&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit_4-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed_✓-FFE81F?style=flat-square)
-
-</td>
-</tr>
-</table>
 
 </div>
 
